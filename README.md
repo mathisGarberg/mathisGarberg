@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mathis startet som webutvikler for Telenor høsten 2017, og har gjennom jobb og utdanning opparbeidet seg en sterk faglig kompetanse innen en rekke web-, design- og sikkerhetsrelaterte fag. Han er god til å samarbeide, svært strukturert i sitt arbeid og god til å finne løsninger på kompliserte problemer. Han brenner for utvikling og bruker mye av tiden sin på å utvikle ferdighetene sine innen hele utviklingsløpet. Dette bidrar til at løsningene han utvikler er oppdaterte, brukervennlige, robuste og sikre. Mathis er også sterkt engasjert i open source utvikling og har skrevet en rekke fagartikler på publiseringsplattformen Medium.
+
 <!--
 **mathisGarberg/mathisGarberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
