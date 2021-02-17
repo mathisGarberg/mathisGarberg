@@ -1,4 +1,4 @@
-### Hi 👋👨‍💻
+### Hi 👋
 
 Mathis started as a web developer in Telenor in 2017, and been exposed to several technologies during his career. 
 
